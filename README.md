@@ -3,7 +3,9 @@ The repo for my JS13K 2023 compo "FEAST NIGHT"
 
 A game by [Almar](https://twitter.com/repunkgame).
 
-(Will update the readme once the game is up on the JS13K web!)
+## Play the game [HERE](https://js13kgames.com/entries/feast-night)
+
+The postmortem is [here](https://github.com/wololoa/js13k2023/blob/main/postmortem.md).
 
 ![:O](https://raw.githubusercontent.com/wololoa/js13k2023/master/screens/banner.png)
 
