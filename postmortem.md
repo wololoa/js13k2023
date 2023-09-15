@@ -168,7 +168,7 @@ With all the pieces in place I only had to solidify what were the actual choices
   * If you save 3 or more souls (it's supposed to be five, but there's a bug in there), you can go to Heaven's Door and you will... probably... be happy forever?
   * If you start killing "demons", you are greeted by the Devil himself. And depending on how many you manage to take down... you can become the new Devil!
 
-On each new loop, the priest that greets you will provide you more and more information, meaning that by the end of the way you should have at least some notion of what is going on.
+On each new loop, the priest that greets you will provide you more and more information: after a few loops, you should have at least some notion of what is going on.
 
 # FEAST NIGHT: THE TECH
 
