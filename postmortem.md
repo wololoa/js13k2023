@@ -91,7 +91,7 @@ After many hours of development, research and coding... I realized I was making 
 
 And for some reason... I couldn't stop thinking about doing an *actual* duck hunt game. Of course, me being me I couldn't just clone that game - I had to find something worth doing - something "artistic".
 
-Because I apparently cannot survive making "happy" things (dark atmospheres come natural to me I guess), an old image returned to my memory: a dark, gritty forest full of... witches. Or demons. Or ghosts. I don't know - it was scary shit.
+Because I apparently cannot survive making "happy" things (dark atmospheres come natural to me I guess), an image I had seen many years ago came back to me: a dark, gritty forest full of... witches. Or demons. Or ghosts. I don't know - it was scary shit.
 
 It took me hours but I finally found the forgotten reference: the amazing art of [Yuri Hill](https://www.artstation.com/hill).
 
