@@ -6,7 +6,7 @@ That's... what my game was called for most of the two weeks I spent working on i
 
 After two (half) days researching "life during the XIII century", and gathering dozens of references and possible settings for my game, I reached the conclusion that my game would *have* to:
 
-  * be a narrative, **non violent experience** (sigh).
+  * be a narrative, **non violent experience** (I kinda failed this one, sigh).
 
   * include interesting mechanics.
 
@@ -30,7 +30,7 @@ But why keep it so "simple"? Let's go further: what if you are born... a Princes
 
 In no time I had a whole list of different paths for different characters: a peasant, a Princess. A crusader Knight with PTSD. A witch hidden in the forest, eating children. An alchemist, trying to find the way to learn Dark Magic from grimoires (it would be a real blow to learn that rat's piss and ale don't make a potion for eternal youth...).
 
-In a couple hours I had 13 different archetypes or "lives" you could become, with multiple paths for each one - paths that would cross one another. I had a list of settings, characters and it looked good!
+In a couple hours I had 13 different archetypes or "lifes" you could jump into, with multiple paths for each one - paths that would cross one another. I had a list of settings, characters and it looked good!
 
 A thunder hit my brain and **13 lives** was born.
 
