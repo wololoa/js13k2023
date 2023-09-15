@@ -71,7 +71,7 @@ With some CC0 sprites I found on the web and a few of my own, I made this:
 
 By this point, I thought the idea was shit: I originally started with this awesome study of medieval life to end up doing... a simple "click here" simulation.
 
-The game was supposed to work on mobile and desktop (I quickly discarded VR), but static images were too boring.
+The game was supposed to work on mobile and desktop (I quickly discarded VR), but static game would be too boring.
 
 "What about walking?" I thought. "Nah, let's keep it static".
 
